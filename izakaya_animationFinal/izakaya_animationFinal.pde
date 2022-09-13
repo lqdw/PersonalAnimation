@@ -2,6 +2,7 @@
 Linda Wang
 Block 1-4A
 Personal Animation Project
+*/
 
 import ddf.minim.*;
 import ddf.minim.analysis.*;
