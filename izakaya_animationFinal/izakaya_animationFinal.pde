@@ -3,15 +3,6 @@ Linda Wang
 Block 1-4A
 Personal Animation Project
 
-Hi Mr.Pelletier! For my project, I made an animation of a Hokkaido Ramen restaurant.
-The reason that I made this is because I really love the Japanese culture. I'd like 
-to visit Japan one day and learn more about their culture, and perhaps work as a part-time
-worker in a restaurant while I'm there. I also added a koinobori, a few Japanese lanterns, and 
-a Japanese style vending machine to express my interest towards the Japanese culture.
-Also, I choose to animate my restaurant under a night sky because I'm a night person.
-I also did a lot of research by myself for this project.
-*/
-
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 import ddf.minim.effects.*;
